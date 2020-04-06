@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bruno/CLionProjects/TestSDL/Game.cpp
+Game.h
+C:/Users/bruno/CLionProjects/TestSDL/Game.h
+
+C:/Users/bruno/CLionProjects/TestSDL/Game.h
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+iostream
+-
+
